@@ -28,7 +28,7 @@ keywords = [
     "scripture",
     "usccb",
 ]
-requires-python = "<4.0,>=3.9"
+
 dependencies = [
     "bs4<1.0.0,>=0.0.2",
     "aiofiles<25.0.0,>=24.1.0",
